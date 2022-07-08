@@ -1,0 +1,19 @@
+.teste{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+  overflow-x: scroll;
+  width: 900px;
+  margin: auto;
+  padding: 10px;
+ 
+}
+
+.teste img {
+  width: 350px;
+  height: 350px;
+  padding: 10px;
+  
+    
+}

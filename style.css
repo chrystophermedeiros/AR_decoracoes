@@ -305,6 +305,25 @@ nav.show div.icon-close {
   margin-bottom: 2rem;
 }
 
+
+
+/*====  EVENTS ============================ */
+
+.teste{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  overflow-x: scroll;
+ 
+}
+
+.teste img {
+  width: 350px;
+  height: 350px;
+  
+    
+}
+
 /*====  ABOUT ============================ */
 #about {
   background: white;
