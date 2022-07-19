@@ -734,8 +734,16 @@ footer .social a:hover {
     height: 400px;
     padding: 3px;
     margin: auto;
+
+    
   
   }
+
+  #events .teste1 img {
+   zoom: 100%;
+  
+  }
+
 
   #home .image img {
     width: 400px;
