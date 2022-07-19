@@ -712,7 +712,7 @@ footer .social a:hover {
 }
 /* medium devices: 767 > */
 
-@media (max-width: 400px) {
+@media (max-width: 500px) {
 
   .teste1 {
     display: flex;
@@ -726,14 +726,14 @@ footer .social a:hover {
   
   
   #events .teste1 img {
-    width: 400px;
-    height: 400px;
+    width: 200px;
+    height: 200px;
     padding: 3px;
     margin: auto;
   
   }
 
-  #events .image img {
+  #home .image img {
     width: 200px;
     height: 200px;
   
